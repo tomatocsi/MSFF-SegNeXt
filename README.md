@@ -1,2 +1,2 @@
 # MSFF-SegNeXt
-## Title：Nuclear segmentation of B-ALL images based on MSFF-SegNeXt
+## Title：Cell nuclear segmentation of B-ALL images based on MSFF-SegNeXt
